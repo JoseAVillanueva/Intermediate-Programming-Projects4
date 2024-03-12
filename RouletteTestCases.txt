@@ -1,0 +1,121 @@
+===================================================================================
+IMPORTANT NOTICE
+
+-If you enter a (00), it will output a (0).
+-If you enter a (0) for the computer roll in Test Mode, or the computer rolls a (0)
+in Game Mode, and the bet made is an outside bet, it will always loose.
+(this was done to mimic roulette outside bet system where a 0 would cause you to lose)
+===================================================================================
+
+Enter the playing mode(G/T): g
+
+Enter the starting amount of money: 500
+
+Player starts with 500 dollars.
+
+How much to bet (5-dollar increments): 250
+
+1.   Single Number
+2.   Adjacent Numbers
+3.   Row
+4.   Corner
+5.   2 Rows
+6.   Column
+7.   Dozen
+8.   Color
+9.   Even/Odd
+10.  Low/Hi
+
+Enter the type of bet: 1
+__________
+| 0 | 00 |
+__________
+| 1| 2| 3|
+__________
+| 4| 5| 6|
+__________
+| 7| 8| 9|
+__________
+|10|11|12|
+__________
+|13|14|15|
+__________
+|16|17|18|
+__________
+|19|20|21|
+__________
+|22|23|24|
+__________
+|25|26|27|
+__________
+|28|29|30|
+__________
+|31|32|33|
+__________
+|34|35|36|
+__________
+
+Enter number to bet on(0, 00, 1 - 36) : 5
+
+The computer rolled : 26
+You lose!
+
+Player has 250 dollars.
+
+Run again (Y/N): y
+
+How much to bet (5-dollar increments): 300
+You are betting more money than whats listed in the player's account, please try again.
+How much to bet (5-dollar increments): 234
+The betting amount entered can not be incremented by values of 5 dollar's, please try again.
+How much to bet (5-dollar increments): 250
+
+1.   Single Number
+2.   Adjacent Numbers
+3.   Row
+4.   Corner
+5.   2 Rows
+6.   Column
+7.   Dozen
+8.   Color
+9.   Even/Odd
+10.  Low/Hi
+
+Enter the type of bet: 2
+__________
+| 0 | 00 |
+__________
+| 1| 2| 3|
+__________
+| 4| 5| 6|
+__________
+| 7| 8| 9|
+__________
+|10|11|12|
+__________
+|13|14|15|
+__________
+|16|17|18|
+__________
+|19|20|21|
+__________
+|22|23|24|
+__________
+|25|26|27|
+__________
+|28|29|30|
+__________
+|31|32|33|
+__________
+|34|35|36|
+__________
+
+Enter the 1 number to bet on(0, 00, 1 - 36) : 1
+Enter the 2 number to bet on(0, 00, 1 - 36) : 2
+
+The computer rolled : 4
+You lose!
+
+
+You ran out of money, better luck next time!
+Thanks for playing!

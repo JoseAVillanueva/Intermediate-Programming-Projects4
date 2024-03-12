@@ -1,0 +1,29 @@
+===================================================================================
+IMPORTANT NOTICE
+
+-If an expression of more than 80 characters is entered, then an error message will
+be displayed(and loop) until the expression is less than or equal to 80 characters.
+-If an incorrect input is made(to run the program), then an error message will be
+ displayed(and loop) until a correct input is made.
+===================================================================================
+
+Enter expression: a+b
+
+Expression 1: a+b
+
+Value = 3
+a = 1
+b = 2
+
+Run again (Y/N): y
+
+Enter expression: a+b--+c++
+
+Expression 2: a+b--+c++
+
+Value = 6
+a = 1
+b = 1
+c = 4
+
+Run again (Y/N): n

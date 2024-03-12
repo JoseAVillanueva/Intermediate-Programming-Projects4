@@ -1,0 +1,24 @@
+Enter file name: blobsize.txt
+
+Blob 1:
+Location (7,1): Size 16 Blob.
+Location (5,6): NO BLOB
+
+Blob 2:
+Location (2,3): Size 3 Blob.
+Location (4,5): Size 10 Blob.
+Location (2,7): Size 10 Blob.
+
+Run again (Y/N): y
+
+Enter file name: CustomBlob.txt
+
+Blob 1:
+Location (3,4): Size 4 Blob.
+Location (2,5): NO BLOB
+Location (5,2): Size 7 Blob.
+
+Run again (Y/N): h
+
+An invalid input was made, please try again
+Run again (Y/N): n
